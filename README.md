@@ -1,2 +1,3 @@
-# desafio1-arquitetura-landing-page
-Projeto de desenvolvimento do desafio 1 da formação de tecnologia da Escola DNC: landing page de um site de arquitetura.
+Desafio 1 - Resolução
+Link do site disponibilizado:
+Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1XUMBCiqxNoR54I0nafdAn-ULa-iY4HReNaHhAS-QFJo/edit?usp=sharing
